@@ -1,0 +1,7 @@
+# Project dependencies
+
+MySQL-python==1.2.5
+django-csp==2.0.3
+Django==1.8.12
+
+# django-debug-toolbar==1.4

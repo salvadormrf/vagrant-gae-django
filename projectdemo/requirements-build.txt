@@ -1,0 +1,8 @@
+# Dependencies required for running the build process
+
+# On appengine we use the supported PIL
+# TODO: lock Pillow version to similar PIL appengine version
+Pillow
+
+flake8
+pep8-naming
